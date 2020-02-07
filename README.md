@@ -8,12 +8,13 @@
 * Alexandre Plociniczak
 
 ## Fonction
-Ce logiciel permet de gérer :
-* les magasins (ajout/suppresion)
-* les rayons (ajout/suppresion)
-* les produits (ajout/suppresion)
-* les utilisateurs (ajout/suppresion)
-* le profil de l'utilisateur (changement de mot de passe)
+Ce logiciel permet de gérer les stocks d'un ensemble de magasin ainsi que les rayons et les produits de chacun.<br/>
+Voici les fontionnalités princiaples :
+* gestion des magasins (ajout/suppresion)
+* gestion des rayons (ajout/suppresion)
+* gestion des produits (ajout/suppresion)
+* gestion des utilisateurs (ajout/suppresion)
+* gestion du profil de l'utilisateur (changement de mot de passe)
 
 ## Exemples
 Plusieurs captures d'écran sont disponinle dans le répertoire [image](https://github.com/VictorBeaulieu/test_securite/blob/master/image). <br/>
