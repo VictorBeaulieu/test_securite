@@ -7,6 +7,14 @@
 * Corentin Le Nel
 * Alexandre Plociniczak
 
+## Fonction
+Ce logiciel permet de gérer :
+* les magasins (ajout/suppresion)
+* les rayons (ajout/suppresion)
+* les produits (ajout/suppresion)
+* les utilisateurs (ajout/suppresion)
+* le profil de l'utilisateur (changement de mot de passe)
+
 ## Installation
 
 Ce projet est réalisé avec Visual Studio Community 2019.
@@ -22,3 +30,5 @@ Pour ce connecter, utilisez l'un des comptes suivant : ![all_logins](https://git
 Pour la mise en production, il faut utiliser l'utillitaire de création d'installeur.
 ![make_installer_1](https://github.com/VictorBeaulieu/test_securite/blob/master/image/make_installer_1.png)
 ![make_installer_2](https://github.com/VictorBeaulieu/test_securite/blob/master/image/make_installer_2.png)
+
+L'installateur sera fournit au client, le soft se connectera automatiquement à la database qui elle sera déployer soit sur un serveur distant, soit chez le client.
