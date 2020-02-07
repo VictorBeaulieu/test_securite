@@ -15,6 +15,7 @@ Ce logiciel permet de gérer :
 * les utilisateurs (ajout/suppresion)
 * le profil de l'utilisateur (changement de mot de passe)
 
+
 ## Installation
 
 Ce projet est réalisé avec Visual Studio Community 2019.
@@ -32,3 +33,7 @@ Pour la mise en production, il faut utiliser l'utillitaire de création d'instal
 ![make_installer_2](https://github.com/VictorBeaulieu/test_securite/blob/master/image/make_installer_2.png)
 
 L'installateur sera fournit au client, le soft se connectera automatiquement à la database qui elle sera déployer soit sur un serveur distant, soit chez le client.
+Le moyen de déployment du soft au client peut être :
+* une clé usb
+* un CD-ROM
+* un lien FTP pour télécharger le soft
