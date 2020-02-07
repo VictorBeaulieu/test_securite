@@ -11,7 +11,7 @@
 ![7](https://github.com/VictorBeaulieu/test_securite/blob/master/image/list_user.png)<br/>
 ![8](https://github.com/VictorBeaulieu/test_securite/blob/master/image/menu_option.png)
 ## Point de vue d'un chef de magasin
-![9](https://github.com/VictorBeaulieu/test_securite/blob/master/image/chef de magasin view.png)
+![9](https://github.com/VictorBeaulieu/test_securite/blob/master/image/chef%20de%20magasin%20view.png)
 ## Point de vue d'un employé
 ![10](https://github.com/VictorBeaulieu/test_securite/blob/master/image/employe_view.png)<br/>
 ![11](https://github.com/VictorBeaulieu/test_securite/blob/master/image/employe_view2.png)
