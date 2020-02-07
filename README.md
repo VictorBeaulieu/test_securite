@@ -15,6 +15,10 @@ Ce logiciel permet de gérer :
 * les utilisateurs (ajout/suppresion)
 * le profil de l'utilisateur (changement de mot de passe)
 
+## Exemples
+Plusieurs captures d'écran sont disponinle dans le répertoire [image](https://github.com/VictorBeaulieu/test_securite/blob/master/image)
+![login_form1](https://github.com/VictorBeaulieu/test_securite/blob/master/image/login_form1.png)
+![menu_option](https://github.com/VictorBeaulieu/test_securite/blob/master/image/menu_option.png)
 
 ## Installation
 
