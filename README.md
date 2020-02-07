@@ -42,3 +42,7 @@ Le moyen de déployment du soft au client peut être :
 * une clé usb
 * un CD-ROM
 * un lien FTP pour télécharger le soft
+
+## Test
+
+La version de test du projet est dans la branch 'test'.<br/>
