@@ -20,5 +20,5 @@ Pour ce connecter, utilisez l'un des comptes suivant : ![all_logins](https://git
 ## Production
 
 Pour la mise en production, il faut utiliser l'utillitaire de création d'installeur.
-[make_installer_1](https://github.com/VictorBeaulieu/test_securite/blob/master/image/make_installer_1.png)
-[make_installer_2](https://github.com/VictorBeaulieu/test_securite/blob/master/image/make_installer_2.png)
+![make_installer_1](https://github.com/VictorBeaulieu/test_securite/blob/master/image/make_installer_1.png)
+![make_installer_2](https://github.com/VictorBeaulieu/test_securite/blob/master/image/make_installer_2.png)
