@@ -24,7 +24,7 @@ Plusieurs captures d'écran sont disponinle dans le répertoire [image](https://
 ## Installation
 
 Ce projet est réalisé avec Visual Studio Community 2019.<br/>
-Pour ouvrir le projet, il faut ouvrir le fichier projet 'detaclon.sln' situé à la racine du dépot ([detaclon.sln](https://github.com/VictorBeaulieu/test_securite/blob/master/detaclon.sln).<br/><br/>
+Pour ouvrir le projet, il faut ouvrir le fichier projet '[detaclon.sln](https://github.com/VictorBeaulieu/test_securite/blob/master/detaclon.sln)' situé à la racine du dépot .<br/><br/>
 Si des difficultés à accéder à la database local du projet, assurez-vous d'avoir installé les packets SQL Server Data Tools pour Visual Studio : 
 [SQL Server Data Tools](https://docs.microsoft.com/fr-fr/sql/ssdt/download-sql-server-data-tools-ssdt?view=sql-server-ver15&fbclid=IwAR3JL_AtK496_2khGUlI5h2o15sUTON6fnmoDVBX4HIeK2ULMitOZIg4nh0)
 
