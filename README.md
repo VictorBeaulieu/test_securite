@@ -8,8 +8,8 @@
 * Alexandre Plociniczak
 
 ## Fonction
-Ce logiciel permet de gérer les stocks d'un ensemble de magasin ainsi que les rayons et les produits de chacun.<br/>
-Voici les fontionnalités princiaples :
+Ce logiciel permet de gérer les stocks d'un ensemble de magasin d'équipements sportifs ainsi que les rayons et les produits de chacun.<br/>
+Voici les fonctionnalités principales :
 * gestion des magasins (ajout/suppresion)
 * gestion des rayons (ajout/suppresion)
 * gestion des produits (ajout/suppresion)
@@ -17,7 +17,7 @@ Voici les fontionnalités princiaples :
 * gestion du profil de l'utilisateur (changement de mot de passe)
 
 ## Exemples
-Plusieurs captures d'écran sont disponinle dans le répertoire [image](https://github.com/VictorBeaulieu/test_securite/blob/master/image). <br/>
+Plusieurs captures d'écran sont disponibles dans le répertoire [image](https://github.com/VictorBeaulieu/test_securite/blob/master/image). <br/>
 ![login_form1](https://github.com/VictorBeaulieu/test_securite/blob/master/image/login_form1.png)<br/>
 ![menu_option](https://github.com/VictorBeaulieu/test_securite/blob/master/image/menu_option.png)
 
